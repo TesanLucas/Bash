@@ -1,0 +1,2 @@
+man
+/usr/lib/firefox/firefox
